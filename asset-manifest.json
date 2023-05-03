@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/adminweb/static/css/main.29b282fd.css",
+    "main.js": "/adminweb/static/js/main.7e5b1d3a.js",
+    "static/js/243.bd8111fb.chunk.js": "/adminweb/static/js/243.bd8111fb.chunk.js",
+    "static/js/180.550f4d7c.chunk.js": "/adminweb/static/js/180.550f4d7c.chunk.js",
+    "static/js/357.dbff209f.chunk.js": "/adminweb/static/js/357.dbff209f.chunk.js",
+    "static/js/525.783e1d07.chunk.js": "/adminweb/static/js/525.783e1d07.chunk.js",
+    "static/js/339.0c189165.chunk.js": "/adminweb/static/js/339.0c189165.chunk.js",
+    "static/js/731.b2eb8802.chunk.js": "/adminweb/static/js/731.b2eb8802.chunk.js",
+    "static/js/596.9d47812b.chunk.js": "/adminweb/static/js/596.9d47812b.chunk.js",
+    "static/js/126.3e330ac4.chunk.js": "/adminweb/static/js/126.3e330ac4.chunk.js",
+    "static/js/411.3e635a59.chunk.js": "/adminweb/static/js/411.3e635a59.chunk.js",
+    "static/js/810.40492861.chunk.js": "/adminweb/static/js/810.40492861.chunk.js",
+    "static/js/522.6cc60a56.chunk.js": "/adminweb/static/js/522.6cc60a56.chunk.js",
+    "static/js/81.68f822f9.chunk.js": "/adminweb/static/js/81.68f822f9.chunk.js",
+    "static/js/294.6291e509.chunk.js": "/adminweb/static/js/294.6291e509.chunk.js",
+    "static/js/349.70633923.chunk.js": "/adminweb/static/js/349.70633923.chunk.js",
+    "static/js/193.9a52f8d8.chunk.js": "/adminweb/static/js/193.9a52f8d8.chunk.js",
+    "static/js/345.9e402dd5.chunk.js": "/adminweb/static/js/345.9e402dd5.chunk.js",
+    "static/js/9.b706a22a.chunk.js": "/adminweb/static/js/9.b706a22a.chunk.js",
+    "static/js/655.9c7e6527.chunk.js": "/adminweb/static/js/655.9c7e6527.chunk.js",
+    "static/js/428.2dc7ee06.chunk.js": "/adminweb/static/js/428.2dc7ee06.chunk.js",
+    "static/js/803.e0c3438c.chunk.js": "/adminweb/static/js/803.e0c3438c.chunk.js",
+    "static/js/616.bc187e82.chunk.js": "/adminweb/static/js/616.bc187e82.chunk.js",
+    "static/js/256.e8074a73.chunk.js": "/adminweb/static/js/256.e8074a73.chunk.js",
+    "static/js/912.8278e13e.chunk.js": "/adminweb/static/js/912.8278e13e.chunk.js",
+    "static/js/376.b9cee03b.chunk.js": "/adminweb/static/js/376.b9cee03b.chunk.js",
+    "static/js/807.aae09a38.chunk.js": "/adminweb/static/js/807.aae09a38.chunk.js",
+    "static/js/26.80db047a.chunk.js": "/adminweb/static/js/26.80db047a.chunk.js",
+    "static/js/666.7ba50f64.chunk.js": "/adminweb/static/js/666.7ba50f64.chunk.js",
+    "static/css/623.7eba4651.chunk.css": "/adminweb/static/css/623.7eba4651.chunk.css",
+    "static/media/pitech.png": "/adminweb/static/media/pitech.18caedefe284259cb3e7.png",
+    "static/media/google.svg": "/adminweb/static/media/google.b7da2ce748745374ee27eb11dd475b9c.svg",
+    "static/media/twitter.svg": "/adminweb/static/media/twitter.5b9c9738bc8e86846c91f27886cebacf.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/adminweb/static/media/facebook.5b823a6232805871728da1033d817609.svg"
+  },
+  "entrypoints": [
+    "/adminweb/static/css/main.29b282fd.css",
+    "/adminweb/static/js/main.7e5b1d3a.js"
+  ]
+}
